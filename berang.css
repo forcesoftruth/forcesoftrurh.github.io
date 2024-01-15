@@ -1,0 +1,30 @@
+body{
+  background-color: #030637;
+
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  background-color: #030637;
+  width: 30%;
+}
+h1{
+ color: #910A67;
+}
+h2{
+  color: #910A67;
+}
+h3{
+  color: #910A67;
+}
+i{
+  color: #3C0753;
+}
+table{
+  color: #3C0753;
+}
+p{
+  color: #3C0753;
+}
